@@ -1,1 +1,3 @@
-# test-Kyokko-m
+#  test-Kyokko-m
+これはREADMEファイルです。
+ベースブランチの初期変更です。
